@@ -1,5 +1,5 @@
 console.log("Hi,This is six data type in javascript")
-// these are some data types in javascript
+// these are some data types in javascript .
 let first="amir";
 console.log(typeof(first));
 let second ;
